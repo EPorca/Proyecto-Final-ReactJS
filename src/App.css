@@ -99,7 +99,12 @@ nav label{
   
 }
 
+/* item List */
 
+.itemList{
+  text-align: center;
+  height: 100rem;
+}
 
 
 

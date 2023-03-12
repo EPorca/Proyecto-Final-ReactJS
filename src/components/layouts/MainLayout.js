@@ -3,7 +3,7 @@ import React from 'react'
 
 
 
-const MainLayout = () => {
+export const MainLayout = () => {
     return (
         <div>
 
@@ -11,4 +11,3 @@ const MainLayout = () => {
     )
 }
 
-export default MainLayout
